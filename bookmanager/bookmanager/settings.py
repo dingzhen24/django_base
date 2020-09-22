@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    # 'book',  #方案1
+    'book',  #方案1
     # 'book.apps.BookConfig',  # 方案2
     #理论上要注册子应用，我现在不注册，一会有问题
 ]
@@ -76,6 +76,8 @@ WSGI_APPLICATION = 'bookmanager.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
+# sqlite3 关系型数据库
+# 过渡了解
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
