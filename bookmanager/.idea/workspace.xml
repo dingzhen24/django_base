@@ -51,29 +51,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bookmanager/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="61" column="38" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/book/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="23" />
+            <state relative-caret-position="97">
+              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/book/index.html">
+        <entry file="file://$PROJECT_DIR$/book/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="139">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -98,9 +89,9 @@
         <option value="$PROJECT_DIR$/book/models.py" />
         <option value="$PROJECT_DIR$/bookmanager/urls.py" />
         <option value="$PROJECT_DIR$/book/urls.py" />
+        <option value="$PROJECT_DIR$/templates/book/index.html" />
         <option value="$PROJECT_DIR$/bookmanager/settings.py" />
         <option value="$PROJECT_DIR$/book/views.py" />
-        <option value="$PROJECT_DIR$/templates/book/index.html" />
       </list>
     </option>
   </component>
@@ -126,17 +117,6 @@
             <path>
               <item name="bookmanager" type="b2602c69:ProjectViewProjectNode" />
               <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookmanager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bookmanager" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bookmanager" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="book" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -205,19 +185,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600742550486</updated>
-      <workItem from="1600742552430" duration="8976000" />
+      <workItem from="1600742552430" duration="9625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8976000" />
+    <option name="totallyTimeSpent" value="9625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="25" width="1311" height="645" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18903892" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18903892" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -228,7 +208,7 @@
       <window_info anchor="bottom" id="Database Console" weight="0.32911393" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19198312" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3607595" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -325,13 +305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bookmanager/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="61" column="38" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/py3_shunyi_42/lib/python3.6/site-packages/django/shortcuts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
@@ -348,8 +321,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/book/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="29" column="23" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="23" />
+        <state relative-caret-position="139">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmanager/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
         </state>
       </provider>
     </entry>
